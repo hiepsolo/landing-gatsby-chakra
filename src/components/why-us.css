@@ -1,0 +1,3 @@
+.bg-why-us::after, .bg-why-us::before {
+  opacity: 0.1 !important;
+}

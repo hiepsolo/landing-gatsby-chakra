@@ -1,0 +1,13 @@
+.my-link {
+  transition: color 0.2s;
+}
+.my-link:hover {
+  color: #133963 !important;
+}
+.social-icon {
+  transition: all 0.2s;
+}
+.social-icon:hover {
+  cursor: pointer;
+  background: #133963;
+}

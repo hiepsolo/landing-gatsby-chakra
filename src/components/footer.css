@@ -1,0 +1,9 @@
+footer .my-link {
+  transition: color 0.2s;
+}
+footer .my-link:hover {
+  color: #1990FF !important;
+}
+.icon-footer:hover {
+  cursor: pointer;
+}
